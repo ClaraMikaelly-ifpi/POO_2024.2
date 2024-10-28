@@ -41,3 +41,10 @@ let conta : Conta = new Conta();
 - (1) Objeto.
 
 # Questão 05
+#### Adicionado nesse mesmo repositorio
+
+# Questão 06
+#### Adicionado na pasta atividade extra 01
+
+# Questão 07
+#### Adicionado nesse mesmo repositório
