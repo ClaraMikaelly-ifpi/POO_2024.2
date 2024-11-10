@@ -18,4 +18,8 @@ controle = ControleDeAudio()
 
 # Lendo o volume atual
 volume_atual = controle.ler_volume()
+<<<<<<< HEAD
 print("O volume atual é:", volume_atual)
+=======
+print("O volume atual é:", volume_atual)
+>>>>>>> 36f59fed3779b5da06e42a4e7280ebf0863dcd3a
