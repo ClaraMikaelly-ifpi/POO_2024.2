@@ -9,7 +9,7 @@ A principal desvantagem do uso de tipagem dinâmica é a possibilidade de erros 
 
 # 3. Pesquise um exemplo na internet em que a tipagem dinâmica pode ser
 problemático.
-
+[Tipagem dinâmica em js](https://github.com/ClaraMikaelly-ifpi/POO_2024.2/blob/94f369fb0cd0ef40f1ff515ffd9c13ec22f112af/atvidade02/questao03.js) <br>
 # 4. Pesquise e exemplifique com um exemplo porque dizemos que a linguagem C,
 mesmo tendo tipagem estática, possui tipagem fraca.
 
