@@ -12,7 +12,7 @@ problemático.
 [Tipagem dinâmica em js](https://github.com/ClaraMikaelly-ifpi/POO_2024.2/blob/94f369fb0cd0ef40f1ff515ffd9c13ec22f112af/atvidade02/questao03.js) <br>
 # 4. Pesquise e exemplifique com um exemplo porque dizemos que a linguagem C,
 mesmo tendo tipagem estática, possui tipagem fraca.
-
+[Exemplo em C](https://github.com/ClaraMikaelly-ifpi/POO_2024.2/blob/4d96aedf7403940ec3c782853b4ae38ac6ffe90a/atvidade02/questao04.c) <br>
 # 5. Poderíamos dizer que a tipagem do TypeScript é fraca por uma variável do tipo
 number aceitar tanto inteiros como ponto flutuante?
 Não, a tipagem do TypeScript ainda é considerada forte, apesar de uma variável do tipo number aceitar tanto inteiros quanto números de ponto flutuante.
