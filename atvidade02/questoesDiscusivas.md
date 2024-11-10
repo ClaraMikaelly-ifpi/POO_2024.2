@@ -18,3 +18,4 @@ number aceitar tanto inteiros como ponto flutuante?
 Não, a tipagem do TypeScript ainda é considerada forte, apesar de uma variável do tipo number aceitar tanto inteiros quanto números de ponto flutuante.
 
 # 6
+atvidade02/questao06.ts
