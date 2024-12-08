@@ -79,5 +79,3 @@ console.log(conta1);
 console.log(conta2);
 */
 
-/* Questao 3°
-
