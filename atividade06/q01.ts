@@ -1,4 +1,4 @@
-class Calculadora {
+class Calculador {
     
     private operando1: number;
     private operando2: number;
